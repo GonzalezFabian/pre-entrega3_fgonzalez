@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+$fondogral: rgb(88, 88, 88);
+body {
+    background-color: rgba(222, 222, 222, 0.508);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: stretch;
+    background-repeat: repeat;
+    align-items: center;
+}
+
+
+li {
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.btn{
+    background-color: #af2121;
+    display: flex;
+    margin: 10px 100px;
+}
